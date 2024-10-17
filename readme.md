@@ -1,6 +1,6 @@
 ### About
 
-The core of this repo is the prompt. The prompt defines a chatbot responsible for recommending movies. The chatbot is specified as a widget for a streaming service and it only recommends movies available in the provided dataset.
+The core of this repo is the LLM prompt. The prompt defines a chatbot responsible for recommending movies. The chatbot is specified as a widget for a streaming service and it only recommends movies available in the provided dataset.
 
 ### Demo
 
